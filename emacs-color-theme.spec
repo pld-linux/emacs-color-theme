@@ -1,5 +1,5 @@
 Summary:	Themes for Emacs
-Summary(pl):	Zestaw tematów dla Emacsa
+Summary(pl):	Zestaw motywów dla Emacsa
 Name:		emacs-color-theme
 Version:	6.5.4
 Release:	0.1
@@ -14,7 +14,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Themes for Emacs.
 
 %description -l pl
-Zestaw tematów dla Emacsa.
+Zestaw motywów dla Emacsa.
 
 %prep
 %setup -q -n %{name}
