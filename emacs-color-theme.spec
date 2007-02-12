@@ -1,5 +1,5 @@
 Summary:	Themes for Emacs
-Summary(pl.UTF-8):   Zestaw motywów dla Emacsa
+Summary(pl.UTF-8):	Zestaw motywów dla Emacsa
 Name:		emacs-color-theme
 Version:	6.5.4
 Release:	0.1
